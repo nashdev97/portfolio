@@ -17,7 +17,9 @@ Deploy a simple HTML & CSS static website using GitHub Pages as part of the DevO
 5. Save and wait for deployment link to appear.
 
 ## Live Website
-[Click here to view the website](https://your-username.github.io/your-repo-name)
+[Click here to view the website]
+https://nashdev97.github.io/portfolio/
 
-## Author
-- DevOps Internship Participant
+
+## Screenshot
+![alt text](image-1.png)
